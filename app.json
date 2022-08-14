@@ -37,7 +37,7 @@
             "value": "",
             "required": false
         },
-        "HEROKU_API": {
+        "HEROKU_API_KEY": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
             "value": "",
             "required": true
